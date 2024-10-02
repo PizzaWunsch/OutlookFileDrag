@@ -1,6 +1,7 @@
 ﻿# Outlook File Drag
 
-*Drag and drop Outlook items as files into any application*
+*Drag and drop Outlook items as files into any application (Log4Net Fix)*
+
 
 ## Read This First!
 
@@ -42,10 +43,7 @@ later in a cleanup process.
 
 ## Installation
 
-To install, run the installer that matches your Windows build:
-
-- [Download for 64-bit Windows (Outlook 32-bit or 64-bit)](https://github.com/tonyfederer/OutlookFileDrag/releases/download/v1.0.11/OutlookFileDragSetup_x64.zip)
-- [Download for 32-bit Windows](https://github.com/tonyfederer/OutlookFileDrag/releases/download/v1.0.11/OutlookFileDragSetup.zip)
+To install: Look at the releases of this Project.
 
 After installing, restart Outlook for the add-in to take effect.
 
@@ -88,16 +86,6 @@ Outlook File Drag uses these open source projects:
 
 - [Easyhook](https://easyhook.github.io/)
 - [log4net](http://logging.apache.org/log4net/)
-
-## Feedback/Contribute
-
-You can view the source code, report issues, and contribute on [Github](https://github.com/tonyfederer/OutlookFileDrag).
-
-## Donate
-
-If you find this project useful, please consider donating.  Your donations are appreciated. =)
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BSAGCF5VAJLN2)
 
 ## Version History
 
